@@ -1,4 +1,4 @@
-import 'package:calculator22/buttons.dart';
+import 'package:calculator/buttons.dart';
 import 'package:flutter/material.dart';
 
 class CalculatorScreen extends StatefulWidget {
