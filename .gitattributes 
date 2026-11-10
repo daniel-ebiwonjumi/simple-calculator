@@ -1,0 +1,7 @@
+#ignore boilerplates of android, web, ios, linux, windows and macos
+web/** linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
